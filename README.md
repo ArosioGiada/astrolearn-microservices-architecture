@@ -58,6 +58,6 @@ Building on v1, this iteration adds four capabilities needed for the system to s
 
 - [diagrams.net (draw.io)](https://www.diagrams.net/) — architecture visualisation
 
-## Author
 
-Giada Arosio — Software Engineering (AI specialisation), Torrens University Australia
+
+> Giada Arosio — Software Engineering (AI specialisation), Torrens University Australia
